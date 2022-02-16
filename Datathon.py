@@ -62,3 +62,5 @@ def check_df(dataframe, head=5):
 check_df(df)
 
 df.info()
+
+merhaba
