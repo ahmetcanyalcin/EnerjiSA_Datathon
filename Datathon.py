@@ -64,3 +64,6 @@ check_df(df)
 df.info()
 
 merhaba
+
+
+lelelelelel
